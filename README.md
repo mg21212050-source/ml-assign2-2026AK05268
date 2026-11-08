@@ -45,7 +45,8 @@ Precision, Recall and F1 are weighted averages over the 4 classes; AUC is one-vs
 (Accuracy 0.9650, AUC 0.9987, MCC 0.9534).
 
 ## Streamlit app
-Live app: <<paste Streamlit link here>>
+Live app: https://ml-assign2-2026ak05268-nsjsbpzox6txg7yysmziw9.streamlit.app/
+
 Features: CSV upload, model dropdown, evaluation metrics, confusion matrix and classification report.
 The app loads the saved models and does not retrain.
 
